@@ -1,5 +1,4 @@
 /shop-client
 /server/node_modules
 /server/.env
-/server/src/controller
 /server/src/router
