@@ -91,7 +91,7 @@ function dataUpdate(socket:any) {
     }, 5000)
 }
 
-mongoose.connect('mongodb+srv://dbuser:0342257187AS@cluster0.voyto7l.mongodb.net/?retryWrites=true&w=majority', {}).then(() => {
+mongoose.connect('mongodb+srv://dbuser:111222333@cluster0.vkfv2xz.mongodb.net/?retryWrites=true&w=majority', {}).then(() => {
     console.log("DB Connected!");
     server.listen(PORT);
 }).catch((err) => {

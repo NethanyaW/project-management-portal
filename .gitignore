@@ -1,4 +1,3 @@
 /shop-client
 /server/node_modules
 /server/.env
-/server/src/router
